@@ -14,6 +14,7 @@ public class Art23Application {
 		System.out.println("some more");
 		//mai iski bara bjaunga
 		
+		System.out.println("latest change");
 	}
 
 	class A{
