@@ -10,6 +10,7 @@ public class Art23Application {
 		SpringApplication.run(Art23Application.class, args);
 		System.out.println("test_12");
 		System.out.println("test_12ii");
+		System.out.println("abc");
 	}
 
 }
