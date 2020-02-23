@@ -11,6 +11,12 @@ public class Art23Application {
 		System.out.println("test_12");
 		System.out.println("test_12ii");
 		System.out.println("abc");
+		System.out.println("some more");
 	}
 
+	class A{
+A(){
+System.out.println("default constructor called");
+}
+}
 }
