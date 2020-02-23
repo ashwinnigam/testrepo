@@ -12,6 +12,8 @@ public class Art23Application {
 		System.out.println("test_12ii");
 		System.out.println("abc");
 		System.out.println("some more");
+		//mai iski bara bjaunga
+		
 	}
 
 	class A{
